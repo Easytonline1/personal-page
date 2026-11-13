@@ -4,7 +4,7 @@ function toggleTheme() {
 
 const themeButton = document.getElementById("theme-btn");
 themeButton.addEventListener("click", function () {
-    toggleTheem();
+    toggleTheme();
 });
 
 function showProjects(projects) {
