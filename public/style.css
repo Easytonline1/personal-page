@@ -72,3 +72,20 @@ footer {
     padding: 16px;
     color: #6b7280;
 }
+
+/* skills */
+.skills {
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-bottom: 12px;
+}
+
+.skills-list {
+    margin: 0;
+    padding-inline-start: 20px;
+}
+
+.skills-list li {
+    margin-bottom: 6px;
+}
